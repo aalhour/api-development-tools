@@ -133,6 +133,10 @@ Contributions are most welcome. Categories are also open to suggestions!
 
 ### Postgres
 - [PostgREST](https://github.com/begriffs/postgrest): Serve a RESTful API from any existing PostgreSQL database.
+- [pREST](https://github.com/prest/prest): pREST is a way to serve a RESTful API from any databases written in Go.
+
+### MySQL
+- [xmysql](https://github.com/o1lab/xmysql): Generate REST APIs for any MySQL Database.
 
 ### PHP
 - [API Platform](https://github.com/api-platform/api-platform): API framework on top of Symfony with JSON-LD, Schema.org and Hydra support
@@ -150,6 +154,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [sdks.io](https://sdks.io/): Explore Automatically Generated SDKs.
 - [AutoRest](https://github.com/Azure/autorest): Generate client libraries for RESTful web services
 - [Unirest](http://unirest.io/): Lightweight HTTP-Request client libraries for several languages
+- [OpenAPI Generator](https://github.com/openapitools/openapi-generator): A community fork of Swagger Codegen to automatically generate API clients, server stubs and documentation for REST APIs given an OpenAPI/Swagger spec.
 
 ### Ruby
 - [heroics](https://github.com/interagent/heroics): Ruby HTTP client for APIs represented with JSON schema.
